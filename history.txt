@@ -1,1 +1,5 @@
 esto es curso de git
+
+mi nombre es edgar riascos
+
+y quiero ser el mejor programador del mundo
